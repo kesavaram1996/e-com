@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'dashboard' => 'Dashboard',
+  'orders' => 'Orders',
+  'products' => 'Products',
+  'buyers' => 'Buyers',
+  'users' => 'Users',
+  'roles' => 'Roles',
+  'id' => 'ID',
+  'name' => 'Name',
+  'email' => 'Email',
+  'role' => 'Role',
+  'actions' => 'Actions',
+  'latest_users' => 'Latest Users',
+  'latest_orders' => 'Latest orders',
+  'total' => 'Total',
+  'delivery_charge' => 'Delivery Charge',
+  'tax' => 'Tax',
+  'discount' => 'Discount',
+  'promo_discount' => 'Promo Discount',
+  'wallet' => 'Wallet',
+  'mobile' => 'Mobile',
+  'users' => 'Users',
+);
